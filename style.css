@@ -73,3 +73,7 @@ footer {
     justify-content: space-between;
     flex-wrap: wrap;
 }
+
+#credits p {
+    text-align: center;
+}
